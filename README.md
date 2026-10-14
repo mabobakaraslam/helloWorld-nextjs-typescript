@@ -1,2 +1,3 @@
-# helloWorld-nextjs-typescript
-first app with hello world string
+# First Applicatio using NextJS TypeScript
+
+Recommended Setttins are applied, Oct-2026
